@@ -6,4 +6,4 @@ My name is **Su Bin Lee**, and I am a student of College of Music at Hanyang Uni
 
 This is my first Github repository.   
 
-<immg src=Hello-world!.png>
+<img src=Hello-world!.png>
